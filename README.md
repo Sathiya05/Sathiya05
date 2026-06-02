@@ -21,57 +21,48 @@
 ---
 👩‍💻 About Me
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-```javascript
-const sathiyaPriya = {
-  name        : "Sathiya Priya S",
-  location    : "Bargur, Krishnagiri District, Tamil Nadu 🇮🇳",
-  degree      : "B.E. CSE — CGPA: 8.81",
-  college     : "EPMCE, Hosur (Anna University)",
-  role        : "Frontend Developer @ Growwpark Technologies",
-
-  stack       : ["React", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-  learning    : ["MongoDB", "Express.js", "Node.js", "TypeScript"],
-  design      : ["Figma", "Framer", "Adobe Express", "Canva"],
-  analytics   : ["Power BI", "Tableau", "MS Excel"],
-
-  funFact     : "Won 1st place in Paper Presentations — twice! 🏆",
-
-  motto() {
-    return "Design with empathy. Code with precision. 🚀";
-  }
-};
-```
+🎓 B.E. Computer Science & Engineering — CGPA: 8.81
+🏫 Er. Perumal Manimekalai College of Engineering (Anna University)
+💼 Frontend Developer @ Growwpark Technologies, Hosur (Dec 2025 – Present)
+🌱 Currently learning MongoDB · Express.js · Node.js · TypeScript
+🎨 Passionate about UI/UX Design using Figma & Framer
+📊 Skilled in Power BI · Tableau · MS Excel for data analytics
+🏆 Won 1st place in Paper Presentations — twice!
+📍 Bargur, Krishnagiri District, Tamil Nadu 🇮🇳
+💬 Ask me about React, Tailwind CSS, Figma, Power BI
+📫 Reach me at sathiyasekar05112003@gmail.com
+⚡ Fun fact: Design with empathy. Code with precision. Ship with confidence!
 <br clear="right" />
 ---
 🛠️ Tech Stack & Tools
 <div align="center">
 💻 Languages
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 ⚛️ Frameworks & Libraries
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 🎨 UI/UX & Design
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+<img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Adobe_Express-FF0000?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe Express" />
 📊 Data & Analytics
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="MS Excel" />
 🌐 Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" alt="IBM Cloud" />
 </div>
 ---
 📊 GitHub Stats
@@ -100,11 +91,12 @@ const sathiyaPriya = {
 <details>
 <summary><b>🟢 Frontend Developer — Growwpark Technologies Pvt. Ltd., Hosur &nbsp;|&nbsp; Dec 2025 – Present</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<br/><br/>
 🚀 Actively contributing to multiple live projects by designing and developing responsive, user-friendly web interfaces
 🎨 Implementing best UI/UX practices and performance optimization techniques across all products
 🤝 Collaborating with cross-functional teams including designers, backend developers, and product managers
@@ -113,8 +105,9 @@ const sathiyaPriya = {
 <details>
 <summary><b>🟡 Android Development Intern — Oasis Infobyte (Online) &nbsp;|&nbsp; Apr 2024 – May 2024</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
+<br/><br/>
 📱 Developed and deployed a functional Android application featuring converter and calculator tools
 ⚡ Ensured accuracy and efficiency in computations while optimizing the UI for a seamless experience
 🛠️ Gained hands-on experience in the mobile app development lifecycle from design to deployment
@@ -122,8 +115,9 @@ const sathiyaPriya = {
 <details>
 <summary><b>🔵 Web Design Intern — Nextbrain Technologies Pvt. Ltd., Bangalore &nbsp;|&nbsp; Jul 2023 – Jul 2023</b></summary>
 <br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<br/><br/>
 🌐 Acquired foundational knowledge in web design including HTML, CSS, and responsive layouts
 📐 Developed a strong understanding of structuring and styling web pages for enhanced user experience
 💡 Explored principles of responsive design and cross-browser compatibility
@@ -147,6 +141,7 @@ const sathiyaPriya = {
 📄	Paper Presentation Participant	InterCollege Symposium @ MGR College
 📄	Paper Presentation Participant	InterCollege Symposium @ Podhigai College
 🔬	National Conference Presenter	TECHSYNERGY 2025 @ PMC TECH
+
 🧠	Workshop — Data Structures & Data Science	Oct 2022 · 2 days
 🤖	Workshop — Neural Networks for Decision-Making	VEI Technologies · Mar 2024 · 5 days
 </div>
@@ -171,27 +166,35 @@ SSLC (Class X)	St. Pauls Matriculation School, Mallapadi · State Board	2018 –
 </div>
 ---
 🌱 Currently Learning
-```text
-🟢  MongoDB      →  Atlas · Compass · CRUD · Aggregation · Mongoose
-🟡  Express.js   →  REST APIs · Middleware · Routing · Authentication
-🔵  Node.js      →  Server-side JS · npm · Async/Await · File System
-⚛️  React Adv    →  Custom Hooks · Context API · React Query · Performance
-🔷  TypeScript   →  Types · Interfaces · Generics · TS with React
-📊  Power BI     →  DAX Formulas · Dashboard Design · Data Modeling
-```
+<div align="center">
+<img src="https://img.shields.io/badge/MongoDB-Learning-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Express.js-Learning-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/Node.js-Learning-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/TypeScript-Learning-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React_Advanced-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Advanced" />
+<img src="https://img.shields.io/badge/Power_BI_Advanced-Learning-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</div>
+<br/>
+Topic	Subtopics
+🟢 MongoDB	Atlas · Compass · CRUD · Aggregation · Mongoose
+🟡 Express.js	REST APIs · Middleware · Routing · Authentication
+🔵 Node.js	Server-side JS · npm · Async/Await · File System
+⚛️ React Advanced	Custom Hooks · Context API · React Query · Performance
+🔷 TypeScript	Types · Interfaces · Generics · TS with React
+📊 Power BI Advanced	DAX Formulas · Dashboard Design · Data Modeling
 ---
 📬 Connect With Me
 <div align="center">
 <a href="mailto:sathiyasekar05112003@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sathiyasekar05112003-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-sathiyasekar05112003-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/sathiya-priya-s-3179b8257">
-  <img src="https://img.shields.io/badge/LinkedIn-Sathiya_Priya_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Sathiya_Priya_S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 &nbsp;
 <a href="https://github.com/Sathiya05">
-  <img src="https://img.shields.io/badge/GitHub-Sathiya05-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Sathiya05-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 </div>
 ---
@@ -202,5 +205,5 @@ SSLC (Class X)	St. Pauls Matriculation School, Mallapadi · State Board	2018 –
 </div>
 <br/>
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&animation=twinkling" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer&animation=twinkling" alt="Footer" />
 </div>
