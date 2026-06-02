@@ -1,9 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathiya%20Priya%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Upcoming%20MERN%20Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathiya%20Priya%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Upcoming%20MERN%20Stack%20Developer&descAlignY=62&descSize=16)
 <div align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%2C+I%27m+Sathiya+Priya+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;Upcoming+MERN+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Interactive+Reality+%E2%9C%A8)
 <br/>
 ![Profile Views](https://komarev.com/ghpvc/?username=Sathiya05&color=70a5fd&style=flat-square&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/Sathiya05?style=flat-square&color=70a5fd&logo=github&logoColor=white)
+![Followers](https://img.shields.io/github/followers/Sathiya05?style=flat-square&color=70a5fd&logo=github&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 </div>
 ---
@@ -17,18 +17,12 @@ const sathiyaPriya = {
   university  : "Er. Perumal Manimekalai College of Engineering",
   currentRole : "Frontend Developer @ Growwpark Technologies, Hosur",
 
-  stack: [
-    "React", "JavaScript", "HTML5",
-    "CSS3", "Tailwind CSS", "Python", "SQL"
-  ],
+  stack       : ["React", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+  learning    : ["MongoDB", "Express.js", "Node.js", "TypeScript"],
+  design      : ["Figma", "Framer", "Adobe Express", "Canva"],
+  analytics   : ["Power BI", "Tableau", "MS Excel"],
 
-  learning: ["MongoDB", "Express.js", "Node.js", "TypeScript"],
-
-  design: ["Figma", "Framer", "Adobe Express", "Canva"],
-
-  analytics: ["Power BI", "Tableau", "MS Excel"],
-
-  funFact : "I won 1st place in Paper Presentations — twice!",
+  funFact     : "I won 1st place in Paper Presentations — twice!",
 
   motto() {
     return "Design with empathy. Code with precision. Ship with confidence.";
@@ -48,17 +42,17 @@ const sathiyaPriya = {
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 🎨 UI/UX & Design
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=flat-square&logo=adobeexpress&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-FF0000?style=flat-square&logo=adobe&logoColor=white)
 📊 Data & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![MS Excel](https://img.shields.io/badge/MS_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 🌐 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -68,12 +62,8 @@ const sathiyaPriya = {
 ---
 📊 GitHub Stats
 <div align="center">
-<a href="https://github.com/Sathiya05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sathiya05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/Sathiya05">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sathiya05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10)
 </div>
 ---
 🔥 Streak Stats
@@ -83,19 +73,19 @@ const sathiyaPriya = {
 ---
 📈 Activity Graph
 <div align="center">
-![Sathiya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sathiya05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sathiya05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)
 </div>
 ---
 🏆 Trophy Wall
 <div align="center">
-![trophy](https://github-profile-trophy.vercel.app/?username=Sathiya05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Sathiya05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)
 </div>
 ---
 💼 Work Experience
 <details>
 <summary><b>🟢 Frontend Developer — Growwpark Technologies Pvt. Ltd., Hosur &nbsp;|&nbsp; Dec 2025 – Present</b></summary>
 <br/>
-> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 🚀 Actively contributing to multiple live projects by designing and developing responsive, user-friendly web interfaces
 🎨 Implementing best UI/UX practices and performance optimization techniques across all products
 🤝 Collaborating with cross-functional teams including designers, backend developers, and product managers
@@ -121,10 +111,10 @@ const sathiyaPriya = {
 🚀 Featured Projects
 <div align="center">
 🗂️ Project	🛠️ Stack	✨ Highlights
-MINDSCAPE — AI Mental Health Analysis	Python · AI · ML · Social Media APIs · Wearable Devices	Final year project · Analyzes mental health via social media & wearable data · End-to-end AI pipeline
-ATM Card Fraud Detection	Python · IBM Cloud · ML · Naan Mudhalvan	Fraud detection model on IBM platform · Real-time transaction analysis · Tamil Nadu Govt. initiative
-Coffee Shop Sales & Inventory Analysis	Power BI · MS Excel · DAX · Data Modeling	Interactive dashboards · Sales trend analysis · Inventory tracking with visual KPIs
-Figma UI/UX Designs	Figma · Framer · UI/UX Design	Food Ordering App · Movie Ticket Booking · Pizza Landing Page · Nike Shoe Page · E-commerce Website
+MINDSCAPE — AI Mental Health Analysis	Python · AI · ML · Wearable Devices	Final year project · Analyzes mental health via social media & wearable data
+ATM Card Fraud Detection	Python · IBM Cloud · ML	Fraud detection on IBM platform · Tamil Nadu Govt. Naan Mudhalvan initiative
+Coffee Shop Sales Analysis	Power BI · MS Excel · DAX	Interactive dashboards · Sales trend analysis · Inventory KPIs
+Figma UI/UX Designs	Figma · Framer	Food App · Movie Booking · Pizza Page · Nike Shoe · E-commerce Website
 </div>
 ---
 🏅 Achievements & Presentations
@@ -135,7 +125,7 @@ Figma UI/UX Designs	Figma · Framer · UI/UX Design	Food Ordering App · Movie T
 🥈	2nd Place — Paper Presentation	InterCollege Symposium @ PSV College
 📄	Paper Presentation Participant	InterCollege Symposium @ MGR College
 📄	Paper Presentation Participant	InterCollege Symposium @ Podhigai College
-🔬	National Conference Presenter	TECHSYNERGY 2025 — Project Paper Presentation @ PMC TECH
+🔬	National Conference Presenter	TECHSYNERGY 2025 @ PMC TECH
 🧠	Workshop — Data Structures & Data Science	Oct 2022 · 2 days
 🤖	Workshop — Neural Networks for Decision-Making	VEI Technologies · Mar 2024 · 5 days
 </div>
@@ -143,7 +133,7 @@ Figma UI/UX Designs	Figma · Framer · UI/UX Design	Food Ordering App · Movie T
 🎓 Education
 <div align="center">
 📚 Degree	🏫 Institution	📅 Year	🎯 Score
-B.E. Computer Science & Engineering	Er. Perumal Manimekalai College of Engineering, Hosur · Anna University	2021 – 2025	CGPA: 8.81
+B.E. Computer Science & Engineering	Er. Perumal Manimekalai College of Engineering · Anna University	2021 – 2025	CGPA: 8.81
 HSC (Class XII)	Selva Matric Higher Secondary School, Bargur · State Board	2020 – 2021	93%
 SSLC (Class X)	St. Pauls Matriculation School, Mallapadi · State Board	2018 – 2019	93%
 </div>
@@ -161,18 +151,18 @@ SSLC (Class X)	St. Pauls Matriculation School, Mallapadi · State Board	2018 –
 ---
 🌱 Currently Learning
 ```
-🟢 MongoDB        →  Atlas · Compass · CRUD · Aggregation · Mongoose
-🟡 Express.js     →  REST APIs · Middleware · Routing · Authentication
-🔵 Node.js        →  Server-side JS · npm · Async/Await · File System
-⚛️  React (Adv)   →  Custom Hooks · Context API · React Query · Performance
-🔷 TypeScript     →  Types · Interfaces · Generics · TS with React
-📊 Power BI Adv   →  DAX Formulas · Dashboard Design · Data Modeling
+🟢  MongoDB      →  Atlas · Compass · CRUD · Aggregation · Mongoose
+🟡  Express.js   →  REST APIs · Middleware · Routing · Authentication
+🔵  Node.js      →  Server-side JS · npm · Async/Await · File System
+⚛️  React Adv    →  Custom Hooks · Context API · React Query · Performance
+🔷  TypeScript   →  Types · Interfaces · Generics · TS with React
+📊  Power BI     →  DAX Formulas · Dashboard Design · Data Modeling
 ```
 ---
 📬 Connect With Me
 <div align="center">
-![Email](https://img.shields.io/badge/Gmail-sathiyasekar05112003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathiya%20Priya%20S-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-sathiyasekar05112003%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Sathiya_Priya_S-0077B5?style=flat-square&logo=linkedin&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Sathiya05-181717?style=flat-square&logo=github&logoColor=white)
 </div>
 ---
@@ -180,4 +170,4 @@ SSLC (Class X)	St. Pauls Matriculation School, Mallapadi · State Board	2018 –
 "Design with empathy. Code with precision. Ship with confidence." 🚀
 ⭐ If you find my work helpful, consider giving a star!
 </div>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
