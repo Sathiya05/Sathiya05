@@ -8,9 +8,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
----
-👩‍💻 About Me
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+### 👩‍💻 About Me
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
+
 ```javascript
 const sathiyaPriya = {
   name        : "Sathiya Priya S",
@@ -30,8 +31,6 @@ const sathiyaPriya = {
     return "Design with empathy. Code with precision. Ship with confidence.";
   }
 };
-```
-<br clear="right"/>
 ---
 🛠️ Tech Stack & Tools
 💻 Languages
