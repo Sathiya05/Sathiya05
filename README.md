@@ -87,34 +87,30 @@
 
 </div>
 
----
 
-### 📊 GitHub Stats
+ 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sathiya05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sathiya05&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10&v=1" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathiya05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10&v=1" alt="Top Languages" />
 </div>
----
 
-### 🔥 Streak Stats
+🔥 Streak Stats
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Sathiya05&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" alt="GitHub Streak" />
 </div>
 
----
 
-### 📈 Contribution Graph
+ 📈 Contribution Graph
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sathiya05&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
----
 
-### 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sathiya05&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies" />
@@ -161,9 +157,8 @@
 </ul>
 </details>
 
----
 
-### 🚀 Featured Projects
+ 🚀 Featured Projects
 
 | 🗂️ Project | 🛠️ Stack | ✨ Highlights |
 | :--- | :--- | :--- |
@@ -172,9 +167,8 @@
 | **☕ Coffee Shop Sales Analysis** | Power BI · MS Excel · DAX | Interactive dashboards · Sales trends · Inventory KPIs |
 | **🎨 Figma UI/UX Designs** | Figma · Framer | Food App · Movie Booking · Pizza Page · Nike Shoe · E-commerce |
 
----
 
-### 🏅 Achievements & Presentations
+🏅 Achievements & Presentations
 
 | 🏆 | Achievement | Details |
 | :---: | :--- | :--- |
@@ -197,9 +191,8 @@
 | **HSC (Class XII)** | Selva Matric Higher Secondary School, Bargur · State Board | 2020 – 2021 | 93% |
 | **SSLC (Class X)** | St. Pauls Matriculation School, Mallapadi · State Board | 2018 – 2019 | 93% |
 
----
 
-### 📜 Certifications
+ 📜 Certifications
 
 | 🏅 | Certification | Issuer |
 | :---: | :--- | :--- |
@@ -234,9 +227,8 @@
 | **🔷 TypeScript** | Types · Interfaces · Generics · TS with React |
 | **📊 Power BI Advanced** | DAX Formulas · Dashboard Design · Data Modeling |
 
----
 
-### 📬 Connect With Me
+ 📬 Connect With Me
 
 <div align="center">
   <a href="mailto:sathiyasekar05112003@gmail.com">
@@ -252,7 +244,6 @@
   </a>
 </div>
 
----
 
 <div align="center">
   <i>"Design with empathy. Code with precision. Ship with confidence." 🚀</i>
