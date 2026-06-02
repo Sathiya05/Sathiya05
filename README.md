@@ -1,10 +1,12 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathiya%20Priya%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Upcoming%20MERN%20Stack%20Developer&descAlignY=62&descSize=16)
 <div align="center">
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%2C+I%27m+Sathiya+Priya+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;Upcoming+MERN+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Interactive+Reality+%E2%9C%A8)
-<br/>
-![Profile Views](https://komarev.com/ghpvc/?username=Sathiya05&color=70a5fd&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/Sathiya05?style=flat-square&color=70a5fd&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hi+There%2C+I%27m+Sathiya+Priya+%F0%9F%91%8B;Frontend+Developer+%7C+UI%2FUX+Designer;Upcoming+MERN+Stack+Developer+%F0%9F%9A%80;Turning+Ideas+into+Interactive+Reality+%E2%9C%A8" alt="Typing SVG" />
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Sathiya05&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Sathiya05?style=flat-square&color=70a5fd&logo=github&logoColor=white" alt="GitHub followers" />
+  <a href="https://linkedin.com/in/Sathiya Priya S">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 ---
 👩‍💻 About Me
